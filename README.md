@@ -1,6 +1,8 @@
 # Email Spring Boot Service
 
-Este é um projeto Spring Boot para envio de e-mails. Ele utiliza o framework Spring Boot e integra o envio de e-mails por meio do pacote `spring-boot-starter-mail`. O projeto inclui um controlador REST que permite o envio de e-mails com facilidade.
+Este é um projeto Spring Boot para envio de e-mails. Ele utiliza o framework Spring Boot e integra o envio de e-mails por meio do pacote `spring-boot-starter-mail`. O projeto inclui um controlador REST que permite o envio de e-mails com facilidade. 
+
+Vídeo de estudo: [API de envio de emails com o Spring Boot!](https://youtu.be/GPjgfjayWos?si=Or92pCgHHL57JHi1)
 
 ## Configuração
 
